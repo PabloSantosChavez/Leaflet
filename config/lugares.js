@@ -1,4 +1,4 @@
-export const lugares = [
+const lugares = [
     {nombre:'Fina Estampa', coordenadas: [-36.830509, -73.053467]},
     {nombre:'Camino del agua', coordenadas: [-36.843524, -73.001441]},
     {nombre:'Mall del centro Concepción', coordenadas: [-36.825105, -73.045155]},
@@ -11,3 +11,5 @@ export const lugares = [
     {nombre:'Plaza de los dinosaurios', coordenadas: [-36.815163, -73.030797]},
     {nombre:'Cerro Caracol', coordenadas: [-36.83379987369397, -73.04619492817464]},
 ];
+
+
